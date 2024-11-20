@@ -1,6 +1,8 @@
 # modglm
 Computing interaction effects for nonlinear probability and counts Use modglm With (In) R Software
 
+https://www.youtube.com/watch?v=4W3j1FQTrIA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
